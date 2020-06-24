@@ -17,7 +17,6 @@ _(e.g. Does this require a migration or special infrastructure change? Clearing 
 #### Have you remembered to...?
 
 * [ ] add a reviewer
-* [ ] add an AMP component if needed
 * [ ] run appropriate tests
 * [ ] tag anyone who might want to see this
 * [ ] update any relevant wiki documentation
