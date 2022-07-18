@@ -44,3 +44,5 @@
 * [ ] Relevant documentation updated in Slite
 
 Also consider this PR's impact on architecture and security; AMP, Apple News, RSS; SEO, GA, performance and accessibility.
+
+Please see [Post Merge](https://apartmenttherapy.slite.com/app/docs/88ULglsAB9) for additional responsibilities after this PR is merged.
