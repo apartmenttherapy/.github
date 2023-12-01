@@ -1,4 +1,4 @@
-#### What does this PR do?
+#### What changes are we making? Why are we making them?
 
 [_Required_](https://apartmenttherapy.slite.com/app/channels/R54jSBx0aG/notes/88ULglsAB9#be26d1ca)
 
