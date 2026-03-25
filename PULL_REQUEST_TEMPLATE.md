@@ -1,4 +1,4 @@
-#### What does this PR do?
+#### What does this PR do and why?
 
 [_Required_](https://apartmenttherapy.slite.com/app/channels/R54jSBx0aG/notes/88ULglsAB9#be26d1ca)
 
